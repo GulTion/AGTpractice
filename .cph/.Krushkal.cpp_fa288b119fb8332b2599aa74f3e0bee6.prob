@@ -1,0 +1,1 @@
+{"name":"Local: Krushkal","url":"/media/gultion/Material/Projects/AGT ALB/FF/practice/Krushkal.cpp","tests":[{"id":1743433098363,"input":"4 6\n0 1 1\n1 2 2\n2 3 1\n3 0 2\n3 1 2\n0 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/gultion/Material/Projects/AGT ALB/FF/practice/Krushkal.cpp","group":"local","local":true}
