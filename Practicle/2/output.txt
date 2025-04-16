@@ -1,0 +1,10 @@
+Enter the number of vertices: Enter the edges and weights (u v weight), enter -1 -1 -1 to stop:
+Edge 	Weight
+0 - 1	4
+1 - 2	8
+2 - 3	7
+3 - 4	9
+2 - 5	4
+5 - 6	2
+6 - 7	1
+2 - 8	2
